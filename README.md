@@ -6,4 +6,4 @@ Roadmap with resources that might be helpful for future CS students
 - [ ] [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 
 If you are interested in web development
-- [ ] <url src="https://www.theodinproject.com/">The Odin Project</url>
+- [ ] [The Odin Project](https://www.theodinproject.com/)
