@@ -1,4 +1,4 @@
-# CS_Roadmap
+# CS Roadmap
 Roadmap with resources that might be helpful for future CS students
 
 <b>Start here</b>
